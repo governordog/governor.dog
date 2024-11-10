@@ -15,8 +15,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 95%; /* Adjusted max-width for container */
-    max-height: 95%; /* Adjusted max-height for container */
+    max-width: 85%; /* Adjusted max-width for container */
+    max-height: 85%; /* Adjusted max-height for container */
 }
 
 /* The image itself */
