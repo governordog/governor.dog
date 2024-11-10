@@ -21,11 +21,11 @@ body {
 
 /* The image itself */
 #dog-image {
-    width: 100%;
+    width: 85%;
     height: auto;
     max-width: 85%; /* Reduced max-width for a near full-screen look */
     max-height: 85%; /* Reduced max-height to prevent overflow */
-    border-radius: 16px; /* Increased border-radius for more rounding */
+    border-radius: 20px; /* Increased border-radius for more rounding */
     cursor: pointer;
     transition: transform 0.9s ease-in-out;
 }
